@@ -1,0 +1,18 @@
+﻿  CitizenList.cpp
+  CitizenNode.cpp
+  main.cpp
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\main.cpp(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  VaccinationList.cpp
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\VaccinationList.cpp(136,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\VaccinationList.cpp(144,17): warning C4101: 'i': unreferenced local variable
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\VaccinationList.cpp(170,17): warning C4101: 'i': unreferenced local variable
+  Vaccines.cpp
+  VaccNode.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\CitizenList.cpp(154): warning C4715: 'CitizenList::fetchAge': not all control paths return a value
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\Vaccines.cpp(54): warning C4715: 'Vaccines::fetchVname': not all control paths return a value
+C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\CitizenList.cpp(144): warning C4715: 'CitizenList::fetchFullName': not all control paths return a value
+  All 227 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment 3.vcxproj -> C:\Users\Pranav\OneDrive\Desktop\USP\CS112\CS112 Assignment 3\Assignment 3\x64\Release\Assignment 3.exe
